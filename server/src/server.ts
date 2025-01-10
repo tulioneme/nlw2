@@ -16,8 +16,8 @@ app.use(routes);
 //   console.log(req.body);
 
 //   const users = [
-//     { name: 'Piroca', age: 20 },
-//     { name: 'Pirocudo', age: 30 },
+//     { name: 'Fulado', age: 20 },
+//     { name: 'Ciclano', age: 30 },
 //   ];
 
 //   return res.json(users);
